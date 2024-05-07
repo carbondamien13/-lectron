@@ -22,7 +22,7 @@
     "mocha-appveyor-reporter": "^0.4.2",
     "mocha-junit-reporter": "^1.18.0",
     "mocha-multi-reporters": "^1.1.7",
-    "pdfjs-dist": "^2.2.228",
+    "pdfjs-dist": "^4.2.67",
     "ps-list": "^7.0.0",
     "q": "^1.5.1",
     "send": "^0.16.2",
